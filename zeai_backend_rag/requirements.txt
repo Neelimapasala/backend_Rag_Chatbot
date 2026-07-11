@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+python-dotenv
+passlib[bcrypt]
+python-jose
+pydantic
+python-multipart
+
+# RAG stack
+groq
+chromadb
+sentence-transformers
+pypdf
+python-docx
